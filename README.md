@@ -5,4 +5,4 @@
 ## About Me
 
 ## Resume
-[Download](docs/ResumeOctober25.pdf)
+[My Resume](docs/ResumeOctober25.pdf)
