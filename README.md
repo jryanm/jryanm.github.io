@@ -1,5 +1,6 @@
 # Joshua Martin
-### MS Data Science, Old Dominion University
+### MS Data Science and Analytics 
+### Old Dominion University
 
 ## About Me
 
